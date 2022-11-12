@@ -58,6 +58,7 @@ esphome:
 logger:
   level: INFO
 
+# This is optional and can be commented out to disable the Web Server
 web_server:
   port: 80
 
