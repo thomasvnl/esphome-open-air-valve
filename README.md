@@ -1,1 +1,1 @@
-# esphome-open-duco-valve
+# ESPHome Open AIR Valve
