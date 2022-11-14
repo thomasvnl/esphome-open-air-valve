@@ -82,7 +82,7 @@ wifi:
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: "Open-Duco Fallback Hotspot"
+    ssid: "Open Air Valve Config AP"
     password: "ChangeMe@123!"
 
 globals:
