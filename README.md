@@ -1,4 +1,4 @@
-# ESPHome Open AIR Valve
+# ESPHome Open Air Valve
 
 Visit https://esphome.io/ for instructions on how to deploy this firmware.
 
