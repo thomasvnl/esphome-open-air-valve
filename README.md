@@ -59,7 +59,7 @@ sensor:
 
 ### SHT-20 Sensor
 
-If you have a SHT-20 Sensor add the following to the bottom of Add the following righ below "board: esp32dev" 
+If you have a SHT-20 Sensor add the following code at the bottom of `open-air-valve.yaml` 
 
 ```
 sensor:
