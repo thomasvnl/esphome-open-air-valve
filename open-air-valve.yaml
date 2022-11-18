@@ -122,6 +122,22 @@ status_led:
   pin:
     number: GPIO33
 
+uart:
+#UART For Sensor 1
+-  id: uart_sensor_1
+   rx_pin: GPIO25
+   tx_pin: GPIO26
+   baud_rate: 9600
+
+
+i2c:
+#I2C For Sensor 1
+- id: i2c_sensor_1
+  sda: GPIO16
+  scl: GPIO4
+  scan: false
+  frequency: 400kHz
+  
 cover:
   - platform: template
     name: "Valve"
