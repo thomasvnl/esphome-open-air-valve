@@ -96,6 +96,7 @@ Add the following righ below "board: esp32dev"
 ```
 
 Place the SHT20.H file in the same directory as the `open-air-valve.yaml`.
+Thanks 
 
 Change all the 'x' in the document for a number or a letter so you know which valve is which. (if sensors have identical names they wont show up in HA)
 
