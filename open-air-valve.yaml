@@ -56,7 +56,7 @@ esphome:
 
 # Enable logging
 logger:
-  level: INFO
+  level: DEBUG
 
 # This is optional and can be commented out to disable the Web Server
 web_server:
