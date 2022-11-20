@@ -84,6 +84,8 @@ wifi:
   ap:
     ssid: "Open AIR Valve Config AP"
     password: "ChangeMe@123!"
+    
+captive_portal:
 
 globals:
   - id: valve_capacity_lookup_table
