@@ -1,5 +1,5 @@
 esphome:
-  name: "Open-AIR-Valve X"
+  name: "open-air-valve-x"
   name_add_mac_suffix: true
   platform: ESP32
   board: esp32dev
