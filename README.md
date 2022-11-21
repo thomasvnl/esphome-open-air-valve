@@ -4,7 +4,7 @@ Visit https://esphome.io/ for instructions on how to deploy this firmware.
 
 More documentation might come available in future updates. Make sure to copy `example.secrets.yaml` to `secrets.yaml` and fill it with your own wifi credentials.
 
-Change the device name's "x" in `open-air-valve.yaml` with a number or a letter to help you identify the valve in your setup.
+Change the device name's (`esphome->name`) `x` in `open-air-valve.yaml` with a number or a letter to help you identify the valve in your setup.
 
 ### Sensor Support: SHT-31
 
